@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.exe
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.deps.json
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.runtimeconfig.json
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.dll
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.pdb
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.dll
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.pdb
+C:\Users\dodiv\source\repos\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.genruntimeconfig.cache

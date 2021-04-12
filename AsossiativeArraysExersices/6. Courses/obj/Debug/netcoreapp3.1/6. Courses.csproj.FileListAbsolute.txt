@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.exe
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.deps.json
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.json
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.dll
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.pdb
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.dll
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.pdb
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.genruntimeconfig.cache

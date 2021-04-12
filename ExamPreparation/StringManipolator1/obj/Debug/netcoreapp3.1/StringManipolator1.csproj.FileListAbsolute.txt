@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\bin\Debug\netcoreapp3.1\StringManipolator1.exe
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\bin\Debug\netcoreapp3.1\StringManipolator1.deps.json
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\bin\Debug\netcoreapp3.1\StringManipolator1.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\bin\Debug\netcoreapp3.1\StringManipolator1.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\bin\Debug\netcoreapp3.1\StringManipolator1.dll
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\bin\Debug\netcoreapp3.1\StringManipolator1.pdb
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\obj\Debug\netcoreapp3.1\StringManipolator1.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\obj\Debug\netcoreapp3.1\StringManipolator1.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\obj\Debug\netcoreapp3.1\StringManipolator1.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\obj\Debug\netcoreapp3.1\StringManipolator1.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\obj\Debug\netcoreapp3.1\StringManipolator1.dll
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\obj\Debug\netcoreapp3.1\StringManipolator1.pdb
+C:\Users\dodiv\source\repos\ExamPreparation\StringManipolator1\obj\Debug\netcoreapp3.1\StringManipolator1.genruntimeconfig.cache

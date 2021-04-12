@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataApp", "ExamPreparation26October2019\DataApp.csproj", "{123F425B-8507-479F-84B8-F31661190A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWarm", "BookWarm\BookWarm.csproj", "{E1CB476B-43FF-4F8C-93CA-983786AFD4D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbits", "Rabbits\Rabbits.csproj", "{BA05BB54-44D9-463A-A51A-357CC6AB00F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123F425B-8507-479F-84B8-F31661190A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123F425B-8507-479F-84B8-F31661190A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123F425B-8507-479F-84B8-F31661190A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123F425B-8507-479F-84B8-F31661190A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CB476B-43FF-4F8C-93CA-983786AFD4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CB476B-43FF-4F8C-93CA-983786AFD4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CB476B-43FF-4F8C-93CA-983786AFD4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CB476B-43FF-4F8C-93CA-983786AFD4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA05BB54-44D9-463A-A51A-357CC6AB00F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA05BB54-44D9-463A-A51A-357CC6AB00F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA05BB54-44D9-463A-A51A-357CC6AB00F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA05BB54-44D9-463A-A51A-357CC6AB00F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885D6915-3C38-4EC8-AC73-FCED141D9C33}
+	EndGlobalSection
+EndGlobal

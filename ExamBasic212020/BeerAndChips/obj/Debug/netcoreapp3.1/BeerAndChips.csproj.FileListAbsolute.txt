@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.exe
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.deps.json
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.dll
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.pdb
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.dll
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.pdb
+C:\Users\dodiv\source\repos\ExamBasic212020\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\bin\Debug\netcoreapp3.1\01.Train.exe
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\bin\Debug\netcoreapp3.1\01.Train.deps.json
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.json
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\bin\Debug\netcoreapp3.1\01.Train.dll
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\bin\Debug\netcoreapp3.1\01.Train.pdb
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\obj\Debug\netcoreapp3.1\01.Train.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\obj\Debug\netcoreapp3.1\01.Train.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\obj\Debug\netcoreapp3.1\01.Train.dll
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\obj\Debug\netcoreapp3.1\01.Train.pdb
+C:\Users\dodiv\source\repos\arraysExerceses\arraysExerceses\obj\Debug\netcoreapp3.1\01.Train.genruntimeconfig.cache

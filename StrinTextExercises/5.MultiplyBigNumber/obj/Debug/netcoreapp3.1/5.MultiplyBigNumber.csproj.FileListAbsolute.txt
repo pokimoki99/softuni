@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.exe
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.deps.json
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.runtimeconfig.json
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.dll
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.pdb
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.dll
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.pdb
+C:\Users\dodiv\source\repos\StrinTextExercises\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\bin\Debug\netcoreapp3.1\01.StudentInformation.exe
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\bin\Debug\netcoreapp3.1\01.StudentInformation.deps.json
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.json
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\bin\Debug\netcoreapp3.1\01.StudentInformation.dll
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\bin\Debug\netcoreapp3.1\01.StudentInformation.pdb
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\obj\Debug\netcoreapp3.1\01.StudentInformation.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\obj\Debug\netcoreapp3.1\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\obj\Debug\netcoreapp3.1\01.StudentInformation.dll
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\obj\Debug\netcoreapp3.1\01.StudentInformation.pdb
+C:\Users\dodiv\source\repos\1. Student Information\BasicSyntax\obj\Debug\netcoreapp3.1\01.StudentInformation.genruntimeconfig.cache

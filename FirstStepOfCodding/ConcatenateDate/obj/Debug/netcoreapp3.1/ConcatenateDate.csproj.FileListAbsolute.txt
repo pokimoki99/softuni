@@ -1,0 +1,12 @@
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\obj\Debug\netcoreapp3.1\ConcatenateDate.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\obj\Debug\netcoreapp3.1\ConcatenateDate.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\obj\Debug\netcoreapp3.1\ConcatenateDate.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\bin\Debug\netcoreapp3.1\ConcatenateDate.exe
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\bin\Debug\netcoreapp3.1\ConcatenateDate.deps.json
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\bin\Debug\netcoreapp3.1\ConcatenateDate.runtimeconfig.json
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\bin\Debug\netcoreapp3.1\ConcatenateDate.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\bin\Debug\netcoreapp3.1\ConcatenateDate.dll
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\bin\Debug\netcoreapp3.1\ConcatenateDate.pdb
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\obj\Debug\netcoreapp3.1\ConcatenateDate.dll
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\obj\Debug\netcoreapp3.1\ConcatenateDate.pdb
+C:\Users\dodiv\source\repos\FirstStepOfCodding\ConcatenateDate\obj\Debug\netcoreapp3.1\ConcatenateDate.genruntimeconfig.cache

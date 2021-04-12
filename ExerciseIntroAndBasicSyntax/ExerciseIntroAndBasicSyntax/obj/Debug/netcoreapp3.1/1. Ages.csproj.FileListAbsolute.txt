@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp3.1\1. Ages.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp3.1\1. Ages.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp3.1\1. Ages.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp3.1\1. Ages.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp3.1\1. Ages.exe
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp3.1\1. Ages.deps.json
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp3.1\1. Ages.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp3.1\1. Ages.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp3.1\1. Ages.dll
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp3.1\1. Ages.pdb
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp3.1\1. Ages.dll
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp3.1\1. Ages.pdb
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp3.1\1. Ages.genruntimeconfig.cache

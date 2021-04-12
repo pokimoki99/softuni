@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\bin\Debug\netcoreapp3.1\MiningRig.exe
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\bin\Debug\netcoreapp3.1\MiningRig.deps.json
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\bin\Debug\netcoreapp3.1\MiningRig.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\bin\Debug\netcoreapp3.1\MiningRig.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\bin\Debug\netcoreapp3.1\MiningRig.dll
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\bin\Debug\netcoreapp3.1\MiningRig.pdb
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\obj\Debug\netcoreapp3.1\MiningRig.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\obj\Debug\netcoreapp3.1\MiningRig.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\obj\Debug\netcoreapp3.1\MiningRig.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\obj\Debug\netcoreapp3.1\MiningRig.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\obj\Debug\netcoreapp3.1\MiningRig.dll
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\obj\Debug\netcoreapp3.1\MiningRig.pdb
+C:\Users\dodiv\source\repos\ExamBasic212020\ExamBasic212020\obj\Debug\netcoreapp3.1\MiningRig.genruntimeconfig.cache

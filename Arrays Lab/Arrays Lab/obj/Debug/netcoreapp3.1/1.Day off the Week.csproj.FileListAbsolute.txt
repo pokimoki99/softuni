@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\bin\Debug\netcoreapp3.1\1.Day off the Week.exe
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\bin\Debug\netcoreapp3.1\1.Day off the Week.deps.json
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\bin\Debug\netcoreapp3.1\1.Day off the Week.runtimeconfig.json
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\bin\Debug\netcoreapp3.1\1.Day off the Week.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\bin\Debug\netcoreapp3.1\1.Day off the Week.dll
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\bin\Debug\netcoreapp3.1\1.Day off the Week.pdb
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\obj\Debug\netcoreapp3.1\1.Day off the Week.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\obj\Debug\netcoreapp3.1\1.Day off the Week.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\obj\Debug\netcoreapp3.1\1.Day off the Week.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\obj\Debug\netcoreapp3.1\1.Day off the Week.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\obj\Debug\netcoreapp3.1\1.Day off the Week.dll
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\obj\Debug\netcoreapp3.1\1.Day off the Week.pdb
+C:\Users\dodiv\source\repos\Arrays Lab\Arrays Lab\obj\Debug\netcoreapp3.1\1.Day off the Week.genruntimeconfig.cache

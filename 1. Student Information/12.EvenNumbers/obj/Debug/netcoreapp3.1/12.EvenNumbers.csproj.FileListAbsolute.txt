@@ -1,0 +1,12 @@
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\bin\Debug\netcoreapp3.1\12.EvenNumbers.exe
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\bin\Debug\netcoreapp3.1\12.EvenNumbers.deps.json
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\bin\Debug\netcoreapp3.1\12.EvenNumbers.runtimeconfig.json
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\bin\Debug\netcoreapp3.1\12.EvenNumbers.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\bin\Debug\netcoreapp3.1\12.EvenNumbers.dll
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\bin\Debug\netcoreapp3.1\12.EvenNumbers.pdb
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\obj\Debug\netcoreapp3.1\12.EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\obj\Debug\netcoreapp3.1\12.EvenNumbers.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\obj\Debug\netcoreapp3.1\12.EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\obj\Debug\netcoreapp3.1\12.EvenNumbers.dll
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\obj\Debug\netcoreapp3.1\12.EvenNumbers.pdb
+C:\Users\dodiv\source\repos\1. Student Information\12.EvenNumbers\obj\Debug\netcoreapp3.1\12.EvenNumbers.genruntimeconfig.cache

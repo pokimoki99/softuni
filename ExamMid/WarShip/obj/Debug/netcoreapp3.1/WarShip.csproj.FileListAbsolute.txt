@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExamMid\WarShip\bin\Debug\netcoreapp3.1\WarShip.exe
+C:\Users\dodiv\source\repos\ExamMid\WarShip\bin\Debug\netcoreapp3.1\WarShip.deps.json
+C:\Users\dodiv\source\repos\ExamMid\WarShip\bin\Debug\netcoreapp3.1\WarShip.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExamMid\WarShip\bin\Debug\netcoreapp3.1\WarShip.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExamMid\WarShip\bin\Debug\netcoreapp3.1\WarShip.dll
+C:\Users\dodiv\source\repos\ExamMid\WarShip\bin\Debug\netcoreapp3.1\WarShip.pdb
+C:\Users\dodiv\source\repos\ExamMid\WarShip\obj\Debug\netcoreapp3.1\WarShip.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExamMid\WarShip\obj\Debug\netcoreapp3.1\WarShip.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExamMid\WarShip\obj\Debug\netcoreapp3.1\WarShip.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExamMid\WarShip\obj\Debug\netcoreapp3.1\WarShip.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExamMid\WarShip\obj\Debug\netcoreapp3.1\WarShip.dll
+C:\Users\dodiv\source\repos\ExamMid\WarShip\obj\Debug\netcoreapp3.1\WarShip.pdb
+C:\Users\dodiv\source\repos\ExamMid\WarShip\obj\Debug\netcoreapp3.1\WarShip.genruntimeconfig.cache

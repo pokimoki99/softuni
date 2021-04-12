@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.exe
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.deps.json
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+C:\Users\dodiv\source\repos\1. Student Information\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.genruntimeconfig.cache

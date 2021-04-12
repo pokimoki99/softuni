@@ -1,0 +1,12 @@
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\bin\Debug\netcoreapp3.1\VechicleCatalogue2.exe
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\bin\Debug\netcoreapp3.1\VechicleCatalogue2.deps.json
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\bin\Debug\netcoreapp3.1\VechicleCatalogue2.runtimeconfig.json
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\bin\Debug\netcoreapp3.1\VechicleCatalogue2.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\bin\Debug\netcoreapp3.1\VechicleCatalogue2.dll
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\bin\Debug\netcoreapp3.1\VechicleCatalogue2.pdb
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\obj\Debug\netcoreapp3.1\VechicleCatalogue2.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\obj\Debug\netcoreapp3.1\VechicleCatalogue2.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\obj\Debug\netcoreapp3.1\VechicleCatalogue2.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\obj\Debug\netcoreapp3.1\VechicleCatalogue2.dll
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\obj\Debug\netcoreapp3.1\VechicleCatalogue2.pdb
+C:\Users\dodiv\source\repos\ObjectAndClasses\VechicleCatalogue2\obj\Debug\netcoreapp3.1\VechicleCatalogue2.genruntimeconfig.cache

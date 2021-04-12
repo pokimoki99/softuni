@@ -1,0 +1,12 @@
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.exe
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.deps.json
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.runtimeconfig.json
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.dll
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\01. Cinema.pdb
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.dll
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.pdb
+C:\Users\dodiv\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\01. Cinema.genruntimeconfig.cache

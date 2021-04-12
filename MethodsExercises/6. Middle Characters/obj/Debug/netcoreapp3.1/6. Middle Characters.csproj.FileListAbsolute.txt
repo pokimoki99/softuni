@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.exe
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.deps.json
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.runtimeconfig.json
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.dll
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.pdb
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.dll
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.pdb
+C:\Users\dodiv\source\repos\MethodsExercises\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.genruntimeconfig.cache

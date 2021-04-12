@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\1. Integer Operations.exe
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\1. Integer Operations.deps.json
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\1. Integer Operations.dll
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\bin\Debug\netcoreapp3.1\1. Integer Operations.pdb
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\1. Integer Operations.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\1. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\1. Integer Operations.dll
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\1. Integer Operations.pdb
+C:\Users\dodiv\source\repos\ExerciseDataTypesAndVariables\ExerciseDataTypesAndVariables\obj\Debug\netcoreapp3.1\1. Integer Operations.genruntimeconfig.cache

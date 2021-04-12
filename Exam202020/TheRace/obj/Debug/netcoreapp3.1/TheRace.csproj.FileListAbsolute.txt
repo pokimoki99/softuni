@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\Exam202020\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\Exam202020\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\Exam202020\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\Exam202020\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\Exam202020\TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\dodiv\source\repos\Exam202020\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\dodiv\source\repos\Exam202020\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\dodiv\source\repos\Exam202020\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\Exam202020\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\dodiv\source\repos\Exam202020\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\dodiv\source\repos\Exam202020\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\dodiv\source\repos\Exam202020\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\dodiv\source\repos\Exam202020\TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

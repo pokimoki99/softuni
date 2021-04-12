@@ -1,0 +1,12 @@
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.exe
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.deps.json
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.json
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Users\dodiv\source\repos\FirstStepOfCodding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.genruntimeconfig.cache

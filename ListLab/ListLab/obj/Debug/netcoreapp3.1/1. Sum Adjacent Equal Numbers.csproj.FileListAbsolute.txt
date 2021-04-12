@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ListLab\ListLab\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.exe
+C:\Users\dodiv\source\repos\ListLab\ListLab\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.deps.json
+C:\Users\dodiv\source\repos\ListLab\ListLab\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\dodiv\source\repos\ListLab\ListLab\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ListLab\ListLab\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\Users\dodiv\source\repos\ListLab\ListLab\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\dodiv\source\repos\ListLab\ListLab\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ListLab\ListLab\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ListLab\ListLab\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ListLab\ListLab\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ListLab\ListLab\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\Users\dodiv\source\repos\ListLab\ListLab\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\dodiv\source\repos\ListLab\ListLab\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.genruntimeconfig.cache

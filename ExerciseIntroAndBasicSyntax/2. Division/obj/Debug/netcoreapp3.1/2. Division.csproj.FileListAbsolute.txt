@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\obj\Debug\netcoreapp3.1\2. Division.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\obj\Debug\netcoreapp3.1\2. Division.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\obj\Debug\netcoreapp3.1\2. Division.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\obj\Debug\netcoreapp3.1\2. Division.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\bin\Debug\netcoreapp3.1\2. Division.exe
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\bin\Debug\netcoreapp3.1\2. Division.deps.json
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\bin\Debug\netcoreapp3.1\2. Division.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\bin\Debug\netcoreapp3.1\2. Division.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\bin\Debug\netcoreapp3.1\2. Division.dll
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\bin\Debug\netcoreapp3.1\2. Division.pdb
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\obj\Debug\netcoreapp3.1\2. Division.dll
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\obj\Debug\netcoreapp3.1\2. Division.pdb
+C:\Users\dodiv\source\repos\ExerciseIntroAndBasicSyntax\2. Division\obj\Debug\netcoreapp3.1\2. Division.genruntimeconfig.cache

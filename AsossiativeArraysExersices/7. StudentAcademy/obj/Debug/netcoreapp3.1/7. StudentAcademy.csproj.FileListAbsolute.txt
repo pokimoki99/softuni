@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\bin\Debug\netcoreapp3.1\7. StudentAcademy.exe
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\obj\Debug\netcoreapp3.1\7. StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\obj\Debug\netcoreapp3.1\7. StudentAcademy.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\bin\Debug\netcoreapp3.1\7. StudentAcademy.deps.json
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\bin\Debug\netcoreapp3.1\7. StudentAcademy.runtimeconfig.json
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\bin\Debug\netcoreapp3.1\7. StudentAcademy.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\bin\Debug\netcoreapp3.1\7. StudentAcademy.dll
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\bin\Debug\netcoreapp3.1\7. StudentAcademy.pdb
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\obj\Debug\netcoreapp3.1\7. StudentAcademy.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\obj\Debug\netcoreapp3.1\7. StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\obj\Debug\netcoreapp3.1\7. StudentAcademy.dll
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\obj\Debug\netcoreapp3.1\7. StudentAcademy.pdb
+C:\Users\dodiv\source\repos\AsossiativeArraysExersices\7. StudentAcademy\obj\Debug\netcoreapp3.1\7. StudentAcademy.genruntimeconfig.cache

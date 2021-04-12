@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2itUQx8ugf1CB/Tlx8EL8nI7PSa0fF4MfVNqX48HQmEjVsbQQiuY8AgkKNLCA1Pq2yObFiOEwIxCxqlugddTZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dodiv\\source\\repos\\AsossiativeArraysExersices\\10. SoftUni Exam Results\\10. SoftUni Exam Results.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dodiv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dodiv\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\dodiv\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\dodiv\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\bin\Debug\netcoreapp3.1\MessageDecripter.exe
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\bin\Debug\netcoreapp3.1\MessageDecripter.deps.json
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\bin\Debug\netcoreapp3.1\MessageDecripter.runtimeconfig.json
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\bin\Debug\netcoreapp3.1\MessageDecripter.runtimeconfig.dev.json
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\bin\Debug\netcoreapp3.1\MessageDecripter.dll
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\bin\Debug\netcoreapp3.1\MessageDecripter.pdb
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\obj\Debug\netcoreapp3.1\MessageDecripter.csprojAssemblyReference.cache
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\obj\Debug\netcoreapp3.1\MessageDecripter.AssemblyInfoInputs.cache
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\obj\Debug\netcoreapp3.1\MessageDecripter.AssemblyInfo.cs
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\obj\Debug\netcoreapp3.1\MessageDecripter.csproj.CoreCompileInputs.cache
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\obj\Debug\netcoreapp3.1\MessageDecripter.dll
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\obj\Debug\netcoreapp3.1\MessageDecripter.pdb
+C:\Users\dodiv\source\repos\ExamPreparation\MessageDecripter\obj\Debug\netcoreapp3.1\MessageDecripter.genruntimeconfig.cache
